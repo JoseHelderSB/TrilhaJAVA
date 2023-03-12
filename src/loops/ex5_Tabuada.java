@@ -1,7 +1,4 @@
 package loops;
-
-import java.util.Scanner;
-
 /*Desenvolva um gerador de tabuada, capaz de gerar a yabuada de qualquer número
  * entre 1 a 10. O usuário informa o valor do número que ele deseja ver a tabuada.
  * A saída deve ser conforme o exemplo a seguir:
@@ -11,6 +8,9 @@ import java.util.Scanner;
  * ...
  * 3 X 10 = 30
  */
+
+ import java.util.Scanner;
+
 public class ex5_Tabuada {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

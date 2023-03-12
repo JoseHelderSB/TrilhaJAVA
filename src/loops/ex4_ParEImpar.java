@@ -1,8 +1,11 @@
 package loops;
-import java.util.Scanner;
 
-/*Faça um programa que leia N números inteiros e depois mostre
- a quantidade d pares e de ímpares*/
+/*
+Faça um programa que leia N números inteiros e depois mostre
+ a quantidade d pares e de ímpares
+ */
+
+ import java.util.Scanner;
 
 public class ex4_ParEImpar {
     public static void main(String[] args) {

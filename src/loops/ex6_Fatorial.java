@@ -1,8 +1,11 @@
 package loops;
+/*
+Faça um programa que calcule o fatorial de um
+número inteiro fornecido pelo usuário
+*/
 
 import java.util.Scanner;
 
-/*Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário */
 public class ex6_Fatorial {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

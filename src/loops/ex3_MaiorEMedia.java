@@ -1,8 +1,10 @@
 package loops;
-import java.util.Scanner;
-/*Programa que leia 5 números
+/*
+Programa que leia 5 números
  e informa o maior número e a média deles
  */
+
+import java.util.Scanner;
 
 public class ex3_MaiorEMedia {
     public static void main(String[] args){
